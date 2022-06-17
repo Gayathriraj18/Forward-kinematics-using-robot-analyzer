@@ -50,6 +50,12 @@ ai for the link length. Once I’ve obtained them, I can just plug them in to th
 
 
 ### SIMULATION :
+![output](kin41.png)
+![output](4.png)
+![output](kin61.png)
+![output](6.png)
+
+
 
  
  
@@ -58,8 +64,9 @@ ai for the link length. Once I’ve obtained them, I can just plug them in to th
  
  
  
- ### PLOT 
- 
+ ### PLOT :
+![output](kin4.png)
+![output](kin3.png)
  
  
  
@@ -89,3 +96,4 @@ ai for the link length. Once I’ve obtained them, I can just plug them in to th
 
 
 ### RESULTS :  
+Thus the forward kinematics using DH paramerters for a 4 and 6 dof robot using roboanalyzer and the graph for link cordinates and joint angles has been plotted and analyzed.
